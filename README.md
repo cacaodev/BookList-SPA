@@ -34,7 +34,7 @@ Este proyecto consiste en una Single Page Application (SPA) desarrollada con Vue
 Para previsualizar y trabajar en este proyecto de forma local, siga estos pasos:
 
 1. Clonar el repositorio:
-   `git clone [URL_PENDIENTE]`
+   `git clone https://github.com/cacaodev/BookList-SPA`
 
 2. Instalar las dependencias necesarias:
    `npm install`
